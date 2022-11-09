@@ -3,6 +3,7 @@ title: "Alaric Adranus"
 date: 2009-07-23T22:57:36-05:00
 author: Billy Smith
 draft: false
+categories: [acolyte]
 ---
 Name: Alaric Adranus
 

@@ -1,39 +1,22 @@
 baseURL = "https://www.darkheresy.co/"
 title = "Dark Heresy"
-theme = "risotto"
 author = "Matt Keathley"
 copyright = "© 09-22 [Matt Keathley](https://www.keathley.co)"
 languageCode = "en"
-DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
-ignoreErrors = ["error-remote-getjson"]
+
+theme = "risotto"
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
-menu = 'main'
-
-[params]
-noindex = false
 
 [params.theme]
 palette = "base16-dark"
 
-# Sidebar: about/bio
 [params.about]
 title = "dh2"
 description = "A [Dark Heresy 2nd Edition](https://www.drivethrurpg.com/browse/pub/6/Fantasy-Flight-Games/subcategory/36_5218/Dark-Heresy) Group"
 logo = "images/logo.svg"
-
-[taxonomies]
-acolyte = "acolytes"
-story = "stories"
-series = "series"
-
-# For hugo >= 0.60.0, enable inline HTML
-[markup.goldmark.renderer]
-unsafe = true
 
 [privacy]
 
