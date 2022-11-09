@@ -1,6 +1,6 @@
 ---
-title: "Rogue Trader"
-date: 2012-05-26T22:57:36-05:00
+title: "Rogue Trader - 2.5"
+date: 2009-10-27T15:26:36-05:00
 draft: false
 ---
 

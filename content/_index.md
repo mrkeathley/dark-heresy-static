@@ -1,1 +1,3 @@
 Only in death does duty end.
+
+Power corrupts they say, but it is those without it that most often speak thus...
