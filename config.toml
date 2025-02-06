@@ -1,8 +1,10 @@
 baseURL = "https://www.darkheresy.co/"
 title = "Dark Heresy"
 author = "Matt Keathley"
-copyright = "© 09-22 [Matt Keathley](https://www.keathley.co)"
+copyright = "© 09-25 [Matt Keathley](https://www.keathley.co)"
 languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 enableInlineShortcodes = true
 
 theme = "risotto"
